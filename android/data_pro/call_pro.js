@@ -1,0 +1,46 @@
+<!--
+function get_call_dataID () {//converIf = 1;
+	//获取数据库converIf对应标识
+    //converIf    改变标识
+	//window.android.handle();
+	var a = setTimeout(function () {
+	    requestAnimationFrame(function () {window.android.handle();});
+	},5000);
+}
+//接听处理
+function answer () {
+    //alert('a');
+}
+//挂断处理
+function hangup () {
+	requestAnimationFrame(function () {window.android.Callup();});
+	//改变数据库converIf对应标识
+    converIf = 0;
+}
+    //converIf     //通话是否接通标识[0代表未接通，1代表接通中]
+    //global_call_click_b_c_c_s        global_call_click_b_c_c_f      global_call_click_b_c_c_m     
+	//global_call_click_b_mic_b_z1     通话中对方
+	//global_call_click_b_mic_b_z2     通话中自己
+
+function showToast() {
+	//window.android.acllJs();
+}
+
+
+
+
+
+//护士站
+function hs_ht () {
+    alert('dfff');
+}
+//-->
+
+
+
+
+
+
+
+
+
