@@ -1,0 +1,2 @@
+/cygdrive/d/objectAPP/WIFICallSever/obj/local/armeabi-v7a/objs/speex/./libspeex/gain_table_lbr.o: \
+ /cygdrive/d/objectAPP/WIFICallSever/jni/./libspeex/gain_table_lbr.c
